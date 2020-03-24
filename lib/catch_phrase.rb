@@ -1,5 +1,5 @@
 
 
-def catch_phrase(string)
+def catch_phrase(phrase)
   puts phrase
 end
